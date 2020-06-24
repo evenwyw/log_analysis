@@ -1,2 +1,3 @@
 tensorflow=2.02
 pytorch=1.5 cuda=9.2
+tensorboard=2.0.2
